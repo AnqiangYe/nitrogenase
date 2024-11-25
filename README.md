@@ -1,4 +1,4 @@
-# Classification and regression models for nitrogenase activity
+# Carmna: Classification and regression models for nitrogenase activity
 Usage guide:
 
 For classification task, you can use **xgb.pkl** model for prediction.
