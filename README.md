@@ -7,3 +7,6 @@ For regression task, first put the features extracted by ProtT5 (https://github.
 
 Please first **normalize** the features you extracted with ProtT5 with the data from columns 2 to 1025 of dataset.xlsx!
 
+./Data file contains all the literature collection data and training model data.
+
+./code file contains all code involved in the model training process.
